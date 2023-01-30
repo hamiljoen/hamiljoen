@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Front-End development **at EduCom**
 
-- 👯 I’m looking to collaborate on **new exciting projects**
+- 👯 I’m looking to collaborate on a **new exciting projects**
 
 - 👨‍💻 All of my projects are available at [www.creeb.nl](www.creeb.nl)
 
