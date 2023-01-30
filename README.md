@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.creeb.nl](www.creeb.nl)
 
-- 💬 Ask me about **Figma, Photoshop**
+- 💬 Ask me about **Figma, Photoshop, Adobe XD**
 
 - 📫 How to reach me **info@creeb.nl**
 
