@@ -3,9 +3,13 @@
 
 - 🔭 I’m currently working on a **Videoland case**
 
-- 🌱 I’m currently learning Front-End development **at EduCom**
+- 🌱 I’m currently learning Front-End development **at Educom Sittard**
 
 - 👯 I’m looking to collaborate on **new exciting projects**
+
+- 🎓 I studied HBO Commercial Management at **Zuyd University, Sittard (HBO)**
+
+- 🎨 I learned Graphic Media Design at **SintLucas, Eindhoven (MBO)**
 
 - 👨‍💻 All of my projects are available at [www.creeb.nl](www.creeb.nl)
 
