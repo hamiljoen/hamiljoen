@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, my name is Randy Hamilton</h1>
 <h3 align="center">A creative designer and a learning front-end developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Videoland case**
+- 🔭 I’m currently working on a **Videoland case**
 
 - 🌱 I’m currently learning Front-End development **at EduCom**
 
-- 👯 I’m looking to collaborate on a **new exciting projects**
+- 👯 I’m looking to collaborate on **new exciting projects**
 
 - 👨‍💻 All of my projects are available at [www.creeb.nl](www.creeb.nl)
 
