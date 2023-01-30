@@ -9,7 +9,7 @@
 
 - 🎓 I studied HBO Commercial Management at **Zuyd University, Sittard (HBO)**
 
-- 🎨 I learned Graphic Media Design at **SintLucas, Eindhoven (MBO)**
+- 🎨 I learned Media Design at **SintLucas, Eindhoven (MBO)**
 
 - 👨‍💻 All of my projects are available at [www.creeb.nl](www.creeb.nl)
 
